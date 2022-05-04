@@ -5,7 +5,7 @@
 
 - [x] Requisição "POST" no postman
 
-![](https://github.com/Pamt-o/java-envio-de-email/blob/main/imagem/banco.jpg)
+![](https://github.com/Pamt-o/java-envio-de-email/blob/main/imagem/postman_1.jpg)
 
 - [x] Recebimento do e-mail (dois exemplos)
 
